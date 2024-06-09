@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/aztest-client/static/js/main.3c1a5165.js",
+    "index.html": "/aztest-client/index.html",
+    "main.3c1a5165.js.map": "/aztest-client/static/js/main.3c1a5165.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c1a5165.js"
+  ]
+}
